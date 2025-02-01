@@ -13,4 +13,4 @@ The image shows a list numbered 1, 2, and 3, but the items are empty. Please gen
 ```  
 
 ### Prompt  
-We provide prompts used in our paper in the `prompts/` directory.  
+We provide prompts used in our paper in the `prompts` directory.  
